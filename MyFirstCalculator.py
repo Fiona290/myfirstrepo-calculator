@@ -1,4 +1,4 @@
-# 🎉 Welcome to the Calculator! 🎉
+#  Welcome to the Calculator! 
 # We're going to add, subtract, multiply, and divide two numbers
 
 # Step 1: Ask the user to input the first number
@@ -31,4 +31,4 @@ print(f"Difference: {difference_result}")  # ➖
 print(f"Product: {product_result}")  # ✖️
 print(f"Quotient: {quotient_result}")  # ➗
 
-# 🏁 And that's it!
+#That's it!
